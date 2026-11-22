@@ -197,7 +197,7 @@ Worked on different cybersecurity tasks involving security monitoring, digital f
 </h1>
 
 <p align="center">
-  <i>A little game made from my GitHub contributions. ♡</i>
+
 </p>
 
 <picture>

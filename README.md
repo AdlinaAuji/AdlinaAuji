@@ -97,30 +97,20 @@ const adlina = {
   <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
   <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
   <img src="https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
-**04. Malware Analysis**
 
-<p>
-  <img src="https://img.shields.io/badge/FLARE--VM-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
-  <img src="https://img.shields.io/badge/CAPA-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
-  <img src="https://img.shields.io/badge/DNSPY-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
-  <img src="https://img.shields.io/badge/CYBERCHEF-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
-</p>
-
-**05. Machine Learning & Programming**
+**04. Machine Learning & Programming**
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
   <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
-  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
   <img src="https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
   <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
-**06. Other Technologies**
+**05. Other Technologies**
 
 <p>
   <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />

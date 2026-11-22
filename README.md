@@ -40,10 +40,6 @@ There's still so much to explore, and I'm enjoying the process of figuring thing
   <strong>A LITTLE SNAPSHOT OF ME</strong>
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-F2B8CC?style=flat-square&labelColor=0D1117" />
-</p>
-
 ```javascript
 const adlina = {
   background: "Information Security & Assurance",

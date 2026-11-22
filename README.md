@@ -243,6 +243,6 @@ Some of my older repositories are not available here just yet, but I'm gradually
 
 Thanks for stopping by! Feel free to connect with me. ♡
 
-<img src="https://img.shields.io/badge/MADE%20WITH%20CURIOSITY%20%26-F2B8CC?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MADE%20WITH%20CURIOSITY%20-F2B8CC?style=flat-square&labelColor=0D1117" />
 
 </div>

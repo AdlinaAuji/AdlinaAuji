@@ -1,19 +1,27 @@
 
-# ADLINA AUJI
+<div align="center">
 
-<p align="center">
-  <strong>CYBERSECURITY · DIGITAL FORENSICS · SOC · GRC · MACHINE LEARNING</strong>
-</p>
+<img src="https://img.shields.io/badge/ADLINA%20AUJI-F2B8CC?style=for-the-badge&labelColor=0D1117" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nuradlinaauji">LINKEDIN</a> ·
-  <a href="mailto:linaauji00@gmail.com">EMAIL</a> ·
-  MALAYSIA
-</p>
+<br/>
+
+**CYBERSECURITY · DIGITAL FORENSICS · SOC · GRC · MACHINE LEARNING**
+
+<a href="https://www.linkedin.com/in/nuradlinaauji">
+  <img src="https://img.shields.io/badge/LinkedIn-F2B8CC?style=flat-square&logo=linkedin&logoColor=0D1117" />
+</a>
+<a href="mailto:linaauji00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F2B8CC?style=flat-square&logo=gmail&logoColor=0D1117" />
+</a>
+<img src="https://img.shields.io/badge/Malaysia-F2B8CC?style=flat-square&logoColor=0D1117" />
+
+</div>
 
 ---
 
-Hey! I'm Adlina, a Computer Science graduate in Information Security and Assurance from USIM.
+### HEY, I'M ADLINA! ♡
+
+I'm a Computer Science graduate in Information Security and Assurance from USIM.
 
 I'm interested in different areas of cybersecurity, especially digital forensics, security operations and threat investigation. During my internship at NetbyteSEC, I had the opportunity to work with SIEM tools, investigate security events, analyse forensic evidence and get some hands-on experience with malware analysis.
 
@@ -27,7 +35,9 @@ There's still so much to explore, and I'm enjoying the process of figuring thing
 
 ---
 
-## A LITTLE SNAPSHOT OF ME
+<h3 align="center">
+  <img src="https://img.shields.io/badge/A%20LITTLE%20SNAPSHOT%20OF%20ME-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
 ```javascript
 const adlina = {
@@ -41,16 +51,15 @@ const adlina = {
     "Governance, Risk & Compliance"
   ],
 
-  tools: [
-    "Splunk", "Wazuh", "Wireshark",
-    "Autopsy", "Volatility 3", "FTK Imager"
+  currentlyExploring: [
+    "GRC",
+    "Machine Learning"
   ],
 
-  languages: ["Python", "SQL", "PowerShell", "Bash"],
-
-  currentlyExploring: ["GRC", "Machine Learning"],
-
-  hobbies: ["CTFs", "Security Labs"],
+  hobbies: [
+    "CTF Challenges",
+    "Security Labs"
+  ],
 
   mindset: "Always learning!"
 };
@@ -58,41 +67,68 @@ const adlina = {
 
 ---
 
-## TOOLS & TECHNOLOGIES
+<h3 align="center">
+  <img src="https://img.shields.io/badge/TOOLS%20%26%20TECHNOLOGIES-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
-**Security Operations**
+**01. Security Operations & Monitoring**
 
-Splunk · Wazuh · Windows Event Viewer · MITRE ATT&CK
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/Windows%20Event%20Viewer-000000?style=for-the-badge&logo=windows&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logoColor=F2B8CC" />
+</p>
 
-**Digital Forensics & Incident Response**
+**02. Digital Forensics & Incident Response**
 
-Autopsy · FTK Imager · Volatility 3 · KAPE · Eric Zimmerman Tools
+<p>
+  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/FTK%20Imager-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/Volatility%203-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/KAPE-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/Eric%20Zimmerman%20Tools-000000?style=for-the-badge&logoColor=F2B8CC" />
+</p>
 
-**Network Security**
+**03. Network Security & Analysis**
 
-Wireshark · Nmap · Burp Suite · TCP/IP · DNS · HTTP
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logoColor=F2B8CC" />
+</p>
 
-**Malware Analysis**
+**04. Malware Analysis**
 
-FLARE-VM · capa · dnSpy · Detect It Easy · CyberChef
+<p>
+  <img src="https://img.shields.io/badge/FLARE--VM-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/capa-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/dnSpy-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/CyberChef-000000?style=for-the-badge&logoColor=F2B8CC" />
+</p>
 
-**Machine Learning & Data Analysis**
+**05. Machine Learning & Programming**
 
-Python · Scikit-learn · TensorFlow · Pandas · NumPy
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,bash" />
+  <img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=F2B8CC" />
+</p>
 
-**Programming & Scripting**
+**06. Other Technologies**
 
-Python · PowerShell · Bash · SQL · PostgreSQL · MySQL
-
-**Other Technologies**
-
-Linux · Windows · Docker · Git
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,vscode" />
+</p>
 
 ---
 
-## PROJECTS & INVESTIGATIONS
+<h3 align="center">
+  <img src="https://img.shields.io/badge/PROJECTS%20%26%20INVESTIGATIONS-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
-### 01. Honeypot Deployment & Threat Analysis
+**01. Honeypot Deployment & Threat Analysis**
 
 Deployed a Drupal honeypot environment on Ubuntu Server and worked with Splunk for log collection and threat monitoring.
 
@@ -101,7 +137,7 @@ Deployed a Drupal honeypot environment on Ubuntu Server and worked with Splunk f
 - Worked with the team to investigate over one million log events.
 - Investigated suspicious activities involving SQL injection and database information leakage.
 
-### 02. Disk Forensics: Ransomware Investigation
+**02. Disk Forensics: Ransomware Investigation**
 
 A hands-on forensic investigation involving workstation and file server disk images.
 
@@ -109,7 +145,7 @@ A hands-on forensic investigation involving workstation and file server disk ima
 - Used Autopsy, capa, dnSpy and FLARE-VM during the investigation.
 - Recovered the attacker's RSA private key and decrypted affected files using OpenSSL.
 
-### 03. Malicious Network Traffic Detection at Dark Web
+**03. Malicious Network Traffic Detection at Dark Web**
 
 My Final Year Project, where I explored how machine learning can help identify encrypted network traffic and distinguish different darknet technologies.
 
@@ -120,7 +156,9 @@ My Final Year Project, where I explored how machine learning can help identify e
 
 ---
 
-## EXPERIENCE
+<h3 align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCE-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
 **NetbyteSEC Sdn Bhd**
 
@@ -130,7 +168,9 @@ Worked on different cybersecurity tasks involving security monitoring, digital f
 
 ---
 
-## CERTIFICATIONS & ACHIEVEMENTS
+<h3 align="center">
+  <img src="https://img.shields.io/badge/CERTIFICATIONS%20%26%20ACHIEVEMENTS-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
 - CompTIA Security+ | I-World Sdn Bhd, 2026
 - Wireless Penetration Tester | 0day Academy, 2026
@@ -139,10 +179,12 @@ Worked on different cybersecurity tasks involving security monitoring, digital f
 
 ---
 
-## CTF & ACTIVITIES
+<h3 align="center">
+  <img src="https://img.shields.io/badge/CTF%20%26%20ACTIVITIES-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
 | Competition | Achievement |
-|---|---|
+|:---|:---:|
 | LigaCTF, OWASPKL | Top 20 |
 | 3108 CTF, Bahtera Siber | Top 10 |
 | Hack10 CTF, UNITEN | Participant |
@@ -152,15 +194,25 @@ Worked on different cybersecurity tasks involving security monitoring, digital f
 
 ---
 
-## GITHUB CONTRIBUTIONS
+<h3 align="center">
+  <img src="https://img.shields.io/badge/MY%20GITHUB%20ACTIVITY-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/bomberman.svg" alt="GitHub Bomberman contribution animation" width="100%">
+  <i>A little game made from my GitHub contributions. ♡</i>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman GitHub contribution animation" src="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph.svg" width="100%">
+</picture>
 
 ---
 
-## A LITTLE NOTE
+<h3 align="center">
+  <img src="https://img.shields.io/badge/A%20LITTLE%20NOTE-F2B8CC?style=flat-square&labelColor=0D1117" />
+</h3>
 
 I'm currently rebuilding my GitHub portfolio after losing access to my previous account, where I had previously hosted some of my projects and work.
 
@@ -168,6 +220,10 @@ Some of my older repositories are not available here just yet, but I'm gradually
 
 ---
 
-<p align="center">
-  Thanks for stopping by! Feel free to connect with me. ♡
-</p>
+<div align="center">
+
+Thanks for stopping by! Feel free to connect with me. ♡
+
+<img src="https://img.shields.io/badge/MADE%20WITH%20CURIOSITY%20%26%20A%20LITTLE%20PINK-F2B8CC?style=flat-square&labelColor=0D1117" />
+
+</div>

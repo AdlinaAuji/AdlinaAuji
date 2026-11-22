@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/AdlinaAuji">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=46&duration=3000&pause=1200&color=F2B8CC&center=true&vCenter=true&width=750&height=90&lines=ADLINA+AUJI;CYBERSECURITY+%26+BEYOND" alt="Adlina Auji" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=46&duration=3000&pause=1200&color=F2B8CC&center=true&vCenter=true&width=750&height=90&lines=ADLINA+AUJI;CYBERSECURITY" alt="Adlina Auji" />
 </a>
 
 **CYBERSECURITY · DIGITAL FORENSICS · SOC · GRC · MACHINE LEARNING**
@@ -15,7 +15,6 @@
 <a href="mailto:linaauji00@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-F2B8CC?style=flat-square&labelColor=0D1117" />
 </a>
-<img src="https://img.shields.io/badge/MALAYSIA-F2B8CC?style=flat-square&labelColor=0D1117" />
 
 </div>
 

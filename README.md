@@ -1,25 +1,27 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ADLINA%20AUJI-F2B8CC?style=for-the-badge&labelColor=0D1117" />
-
-<br/>
+<a href="https://github.com/AdlinaAuji">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=46&duration=3000&pause=1200&color=F2B8CC&center=true&vCenter=true&width=750&height=90&lines=ADLINA+AUJI;CYBERSECURITY+%26+BEYOND" alt="Adlina Auji" />
+</a>
 
 **CYBERSECURITY · DIGITAL FORENSICS · SOC · GRC · MACHINE LEARNING**
 
+<br/>
+
 <a href="https://www.linkedin.com/in/nuradlinaauji">
-  <img src="https://img.shields.io/badge/LinkedIn-F2B8CC?style=flat-square&logo=linkedin&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/LINKEDIN-F2B8CC?style=flat-square&labelColor=0D1117" />
 </a>
 <a href="mailto:linaauji00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F2B8CC?style=flat-square&logo=gmail&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/EMAIL-F2B8CC?style=flat-square&labelColor=0D1117" />
 </a>
-<img src="https://img.shields.io/badge/Malaysia-F2B8CC?style=flat-square&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/MALAYSIA-F2B8CC?style=flat-square&labelColor=0D1117" />
 
 </div>
 
 ---
 
-### HEY, I'M ADLINA! ♡
+### HEY, I'M ADLINA!
 
 I'm a Computer Science graduate in Information Security and Assurance from USIM.
 
@@ -35,9 +37,13 @@ There's still so much to explore, and I'm enjoying the process of figuring thing
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/A%20LITTLE%20SNAPSHOT%20OF%20ME-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>A LITTLE SNAPSHOT OF ME</strong>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ALWAYS%20LEARNING-F2B8CC?style=flat-square&labelColor=0D1117" />
+</p>
 
 ```javascript
 const adlina = {
@@ -61,72 +67,79 @@ const adlina = {
     "Security Labs"
   ],
 
-  mindset: "Always learning!"
+  mindset: "Always learning, always giving"
 };
 ```
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/TOOLS%20%26%20TECHNOLOGIES-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>TOOLS & TECHNOLOGIES</strong>
+</h1>
 
 **01. Security Operations & Monitoring**
 
 <p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/Windows%20Event%20Viewer-000000?style=for-the-badge&logo=windows&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/WAZUH-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/WINDOWS%20EVENT%20VIEWER-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
 **02. Digital Forensics & Incident Response**
 
 <p>
-  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/FTK%20Imager-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/Volatility%203-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/KAPE-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/Eric%20Zimmerman%20Tools-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/AUTOPSY-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/FTK%20IMAGER-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/VOLATILITY%203-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/KAPE-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/ERIC%20ZIMMERMAN%20TOOLS-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
 **03. Network Security & Analysis**
 
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
 **04. Malware Analysis**
 
 <p>
-  <img src="https://img.shields.io/badge/FLARE--VM-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/capa-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/dnSpy-000000?style=for-the-badge&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/CyberChef-000000?style=for-the-badge&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/FLARE--VM-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/CAPA-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/DNSPY-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/CYBERCHEF-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
 **05. Machine Learning & Programming**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,bash" />
-  <img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F2B8CC" />
-  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=F2B8CC" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/POWERSHELL-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
 **06. Other Technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,vscode" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
+  <img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&labelColor=000000&color=F2B8CC" />
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/PROJECTS%20%26%20INVESTIGATIONS-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>PROJECTS & INVESTIGATIONS</strong>
+</h1>
 
 **01. Honeypot Deployment & Threat Analysis**
 
@@ -156,9 +169,9 @@ My Final Year Project, where I explored how machine learning can help identify e
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/EXPERIENCE-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>EXPERIENCE</strong>
+</h1>
 
 **NetbyteSEC Sdn Bhd**
 
@@ -168,9 +181,9 @@ Worked on different cybersecurity tasks involving security monitoring, digital f
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/CERTIFICATIONS%20%26%20ACHIEVEMENTS-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>CERTIFICATIONS & ACHIEVEMENTS</strong>
+</h1>
 
 - CompTIA Security+ | I-World Sdn Bhd, 2026
 - Wireless Penetration Tester | 0day Academy, 2026
@@ -179,9 +192,9 @@ Worked on different cybersecurity tasks involving security monitoring, digital f
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/CTF%20%26%20ACTIVITIES-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>CTF & ACTIVITIES</strong>
+</h1>
 
 | Competition | Achievement |
 |:---|:---:|
@@ -194,25 +207,32 @@ Worked on different cybersecurity tasks involving security monitoring, digital f
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/MY%20GITHUB%20ACTIVITY-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>MY GITHUB ACTIVITY</strong>
+</h1>
 
 <p align="center">
   <i>A little game made from my GitHub contributions. ♡</i>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph.svg">
-  <img alt="Bomberman GitHub contribution animation" src="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph.svg" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph.svg">
+  <img
+    alt="Bomberman GitHub contribution animation"
+    src="https://raw.githubusercontent.com/AdlinaAuji/AdlinaAuji/output/bomberman-contribution-graph.svg"
+    width="100%">
 </picture>
 
 ---
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/A%20LITTLE%20NOTE-F2B8CC?style=flat-square&labelColor=0D1117" />
-</h3>
+<h1 align="center">
+  <strong>A LITTLE NOTE</strong>
+</h1>
 
 I'm currently rebuilding my GitHub portfolio after losing access to my previous account, where I had previously hosted some of my projects and work.
 
@@ -224,6 +244,6 @@ Some of my older repositories are not available here just yet, but I'm gradually
 
 Thanks for stopping by! Feel free to connect with me. ♡
 
-<img src="https://img.shields.io/badge/MADE%20WITH%20CURIOSITY%20%26%20A%20LITTLE%20PINK-F2B8CC?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MADE%20WITH%20CURIOSITY%20%26-F2B8CC?style=flat-square&labelColor=0D1117" />
 
 </div>
